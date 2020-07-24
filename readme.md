@@ -1,6 +1,6 @@
 # Code for PareCO: Pareto-aware Channel Optimization for Slimmable Neural Networks
 
-This paper has been accepted at various non-archival workshops including
+[This paper](https://arxiv.org/abs/2007.11752) has been accepted at various non-archival workshops including
 - [RealML @ ICML'20](https://realworldml.github.io/accepted/) [[Workshop paper](https://realworldml.github.io/files/cr/31_PareCO-realml-paper.pdf)]
 - [DMMLSys @ ICML'20](https://sites.google.com/view/deploymonitormlsystems/schedule) [[Talk](https://slideslive.com/38931679/pareco-paretoaware-channel-optimization-for-slimmable-neural-networks)]
 - [AdvML @ KDD'20](https://sites.google.com/view/advml)
